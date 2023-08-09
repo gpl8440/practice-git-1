@@ -2,3 +2,4 @@ My first line in project
 London is the capital of GB
 A few capitals added
 Moscow is the capital of Russia
+Paris is the capital of France
