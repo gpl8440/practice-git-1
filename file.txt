@@ -4,3 +4,4 @@ My first line in project
 
 Paris is the capital of France
 Index test
+Index test2
